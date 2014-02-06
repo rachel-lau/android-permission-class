@@ -1,0 +1,7 @@
+.DS_Store
+SourceFiles/Skeletons/DangerousApp/bin/*
+SourceFiles/Skeletons/DangerousApp/gen/*
+SourceFiles/Skeletons/PermissionsLab/bin/*
+SourceFiles/Skeletons/PermissionsLab/gen/*
+SourceFiles/TestCases/PermissionsLabTest/bin/*
+SourceFiles/TestCases/PermissionsLabTest/gen/*

@@ -22,7 +22,6 @@ public class GoToDangerousActivity extends Activity {
 		Button startDangerousActivityButton = (Button) findViewById(R.id.start_dangerous_activity_button);
 		startDangerousActivityButton.setOnClickListener(new OnClickListener() {
 
-			@Override
 			public void onClick(View v) {
 
 				startDangerousActivity();
